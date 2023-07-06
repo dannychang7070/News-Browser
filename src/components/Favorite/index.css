@@ -1,0 +1,20 @@
+.card {
+    padding: .75rem;
+    margin-bottom: 2rem;
+    border: 1px solid #efefef;
+    text-align: center;
+}
+
+.card-image {
+    margin-bottom: .75rem;
+    height: 100px;
+}
+
+.navigation {
+    text-align: center;
+}
+
+/* Solid border */
+hr.solid {
+    border-top: 5px solid #bbb;
+}
