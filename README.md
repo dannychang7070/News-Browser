@@ -7,7 +7,6 @@
 - Feel free to leverage 3rd-party component libraries.
 - (Not required but nice-to-have) The end user experience should be delightful.
 - Before submission, please fill out the “Documentation” section below, briefly documenting how you tackled this problem, implementation tradeoffs, future enhancements, etc. Please also include detailed instructions on how to stand up the project for local testing.
-- Feel free to reach out to ask questions at shangyan@butterapp.io.
 - Have fun and be as creative as you like!
 
 ## Documentation
